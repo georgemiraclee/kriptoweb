@@ -43,13 +43,13 @@ function Decrypt() {
 		<div class="row">
 			<ol class="breadcrumb">
 				<li><a href="#"><svg class="glyph stroked key"><use xlink:href="#stroked-key"></use></svg></a></li>
-				<li class="active">Substitusi</li>
+				<li class="active">Chiper</li>
 			</ol>
 		</div><!--/.row-->
 		
 		<div class="row">
 			<div class="col-lg-12">
-				<h1 class="page-header">Substitusi Vigenere</h1>
+				<h1 class="page-header">Vigenere Chiper</h1>
 			</div>
 		</div><!--/.row-->
 		
@@ -78,7 +78,7 @@ function Decrypt() {
 								</div>
 								
 								<p align="center">
-								<button type="button" class="btn btn-primary" name="encrypt" onclick="Encrypt()">Encrypt</button>
+								<button type="button" class="btn btn-primary" name="encrypt" onclick="Encrypt()">Enkripsi</button>
 								<button type="reset" class="btn btn-default">Reset</button>
 								</p>
 							</div>
@@ -92,7 +92,7 @@ function Decrypt() {
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="panel panel-default">
-					<div class="panel-heading">Decryption</div>
+					<div class="panel-heading">Dekripsi</div>
 					<div class="panel-body">
 						<div class="col-md-12">
 							<form role="form">
@@ -113,7 +113,7 @@ function Decrypt() {
 								</div>
 								
 								<p align="center">
-								<button type="button" class="btn btn-primary" name="encrypt" onclick="Decrypt()">Decrypt</button>
+								<button type="button" class="btn btn-primary" name="encrypt" onclick="Decrypt()">Dekripsi</button>
 								<button type="reset" class="btn btn-default">Reset</button>
 								</p>
 							</div>
