@@ -12,11 +12,6 @@
 							<svg class="glyph stroked key"><use xlink:href="#stroked-key"></use></svg> Caesar
 						</a>
 					</li>
-					<li>
-						<a class="" href="substitusi2.php">
-							<svg class="glyph stroked key"><use xlink:href="#stroked-key"></use></svg> Vigenere
-						</a>
-					</li>
 				</ul>
 			</li>
 		</ul>
